@@ -71,13 +71,12 @@ Task management application built using JavaScript.
 
 ## 📈 Coding Profiles
 
-- LeetCode: https://leetcode.com/u/YOUR_USERNAME
-- GeeksforGeeks: YOUR_PROFILE_LINK
+- LeetCode: https:https://leetcode.com/u/HariPrasad1812/
 
 ---
 
 ## 📫 Connect With Me
 
 - Email: anandhari2718@gmail.com
-- LinkedIn: YOUR_LINKEDIN_LINK
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/hariprasad-anandhapandiyan-2052402ba
+- GitHub: https://github.com/Hariprasad1812
